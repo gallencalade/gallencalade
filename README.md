@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Gallen's github stats](https://github-readme-stats.vercel.app/api?username=gallencalade&show_icons=true&line_height=24&count_private=true&theme=dark)
-![Gallen's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gallencalade&layout=compact&langs_count=8&hide=vim&theme=dark)
+![Gallen's github stats](https://github-readme-stats.vercel.app/api?username=gallencalade&show_icons=true&line_height=24&count_private=true&theme=cobalt)
+![Gallen's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gallencalade&layout=compact&langs_count=8&hide=vim&theme=cobalt)
+# [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gallencalade&repo=github-readme-stats)](https://github.com/gallencalade/github-readme-stats)
 
 <!--
 **gallencalade/gallencalade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
