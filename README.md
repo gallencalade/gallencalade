@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey you 👋
 
 ![Gallen's github stats](https://github-readme-stats.vercel.app/api?username=gallencalade&show_icons=true&line_height=24&count_private=true&theme=cobalt)
 ![Gallen's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gallencalade&layout=compact&langs_count=8&hide=vim&theme=cobalt)
