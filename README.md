@@ -1,9 +1,9 @@
 ### Hey mates 👋
 
 - 🔭 I’m currently working on C++ programing and Linux engineering.
-- 🌱 I’m currently learning C++ / Linux / math / philosophy
-- 💬 Ask me about C++ and Linux
-- 😄 Pronouns: perfection, craftsman, artiest
+- 🌱 I’m currently learning C++ / Linux / math / philosophy.
+- 💬 Ask me about C++ and Linux.
+- 😄 Pronouns: perfection, craftsman, artiest.
 - ⚡ Fun fact: fun!
 
 ![Gallen's github stats](https://github-readme-stats.vercel.app/api?username=gallencalade&show_icons=true&line_height=24&count_private=true&theme=yeblu&bg_color=DEG,12c2e9,c471ed,f64f59)
