@@ -21,11 +21,12 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <br/>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&animation=grow_out_in&author=Bjarne%20Stroustrup"></a>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&animation=grow_out_in&author=Bjarne&nbsp;Stroustrup"></a>
 </p>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Github Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gallencalade&show_icons=true&line_height=24&count_private=true&theme=yeblu&bg_color=DEG,12c2e9,c471ed,f64f59" alt="gallencalade" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallencalade&layout=compact&langs_count=8&hide=vim&theme=highcontrast&bg_color=DEG,0f0c29,302b63,24243e" alt="gallencalade" />
 </p>
 
